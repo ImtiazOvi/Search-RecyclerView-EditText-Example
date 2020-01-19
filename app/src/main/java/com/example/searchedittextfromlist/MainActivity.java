@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.recyclerView)
     RecyclerView recyclerView;
 
-    @BindView(R.id.recyclerView)
+    @BindView(R.id.editTextSearch)
     EditText edtTextSearch;
 
 
